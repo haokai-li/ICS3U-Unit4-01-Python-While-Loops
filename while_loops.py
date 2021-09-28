@@ -10,7 +10,7 @@ def main():
     loop_number = 0
     answer_number = 0
     # input
-    user_string = input("Please enter an positve integer: ")
+    user_string = input("Please enter an positive integer: ")
     print("")
 
     # process
@@ -21,7 +21,7 @@ def main():
             answer_number = answer_number + loop_number
         # output
         print(
-            "The sum of all positve number from 1 to {0} is {1}".format(
+            "The sum of all positive number from 1 to {0} is {1}".format(
                 user_number, answer_number
             )
         )
