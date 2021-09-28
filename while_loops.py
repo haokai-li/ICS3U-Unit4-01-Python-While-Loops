@@ -9,6 +9,7 @@ def main():
     # This function calculate sum with while loops
     loop_number = 0
     answer_number = 0
+
     # input
     user_string = input("Please enter an positive integer: ")
     print("")
